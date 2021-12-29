@@ -1,0 +1,16 @@
+#mail {
+    height: 130px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+#pic_mail_personal {
+    width: 100px;
+    height: 80px;
+}
+
+#pic_mail_work {
+    width: 100px;
+    height: 80px;
+}

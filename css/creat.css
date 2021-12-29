@@ -1,0 +1,12 @@
+#creat {
+    height: 600px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+#div1,
+#div2,
+#div3 {
+    display: inline-block;
+}

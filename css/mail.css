@@ -6,11 +6,24 @@
 }
 
 #pic_mail_personal {
-    width: 100px;
-    height: 80px;
+    width: 302px;
+    height: 100px;
+    margin-top: 0px;
+    -webkit-filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, .07));
+    opacity: 0.8;
 }
 
 #pic_mail_work {
-    width: 100px;
-    height: 80px;
+    width: 302px;
+    height: 100px;
+    margin-top: 0px;
+    -webkit-filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, .07));
+    opacity: 0.8;
+}
+
+#pic_mail_blank {
+    width: 25px;
+    height: 100px;
+    margin-top: 0px;
+    opacity: 0;
 }
